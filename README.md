@@ -27,3 +27,9 @@
    <a href="https://instagram.com/_js.moraes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JSantosMoraes/count.svg?"  />
+</div>
+
+###
+
